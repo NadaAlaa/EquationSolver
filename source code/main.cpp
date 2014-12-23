@@ -3,6 +3,7 @@
 
 
 int main() {
+	// testing 7aga
 	while(true) {
 		cout << "(1) Linear polynomial equation\n(2) Non-linear polynomial equation\n";
 		int choice;
